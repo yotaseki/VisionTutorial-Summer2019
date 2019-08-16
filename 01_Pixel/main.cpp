@@ -15,9 +15,9 @@ int main(void){
             unsigned char B = img.data[y * img.step + x * img.elemSize() + 0];
             unsigned char G = img.data[y * img.step + x * img.elemSize() + 1];
             unsigned char R = img.data[y * img.step + x * img.elemSize() + 2];
-            empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 0] = R;
+            empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 0] = B;
             empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 1] = G;
-            empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 2] = B;
+            empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 2] = R;
             cv::imshow("empty",empty_img);
             cv::waitKey(1);
         }

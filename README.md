@@ -1,8 +1,8 @@
 # VisionTutorial-Summer2019 
-[2019/08/17] CIT Brains Vision勉強会2019夏
+[2019/08/17] CIT Brains Vision勉強会2019夏 :whale:  
 ※　動作環境はLinux(Ubuntu)を想定しています
   
-Getting Started
+Getting Started :beginner: :pencil2:
 ---
 1. 下記のコマンドを端末で実行し、環境構築しましょう
 ```bash

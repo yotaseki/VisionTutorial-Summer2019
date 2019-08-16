@@ -1,2 +1,2 @@
 # VisionTutorial-Summer2019
-CIT Brain勉強会2019夏
+2019/08/17    CIT Brain Vision勉強会2019夏

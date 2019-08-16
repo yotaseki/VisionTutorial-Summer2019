@@ -9,7 +9,7 @@ Getting Started
 sudo apt update
 sudo apt install git
 git clone https://github.com/yotaseki/VisionTutorial-Summer2019.git
-cd VisionTutoral-Summer2019
+cd VisionTutorial-Summer2019
 sudo apt install libopencv-dev cmake
 ```
 

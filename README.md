@@ -1,9 +1,6 @@
 # VisionTutorial-Summer2019 
 [2019/08/17] CIT Brains Vision勉強会2019夏
-
-Environment
----
-Linux(Ubuntu)を想定しています
+※　動作環境はLinux(Ubuntu)を想定しています
   
 Getting Started
 ---

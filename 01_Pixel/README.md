@@ -7,7 +7,7 @@ wikipedia引用(https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%BB%E3%83%
 
 cv::Matを用いて、画素についての理解を深める
 ---
-1. ソースコードを確認する
+1. ソースコードを確認
 ```
 gedit main.cpp
 ```
@@ -29,12 +29,12 @@ make
             empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 1] = G;
             empty_img.data[y * empty_img.step + x * empty_img.elemSize() + 2] = R;
 ```
-B = 青成分  
-G = 緑成分  
-R = 赤成分  　を表している  
+B : 青成分  
+G : 緑成分  
+R : 赤成分  　を表している  
 
-* B 以外の値を 0 にすると...?  
-* BとRの値を入れ替えると...？
+* GとRの値を 0 に置き換え実行すると...? 
+* BとRの値を入れ替えて実行すると...?
 
 Advanced
 ---
